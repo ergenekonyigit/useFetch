@@ -1,5 +1,5 @@
 {
-  "name": "useFetch",
+  "name": "@ergenekonyigit/usefetch",
   "version": "1.0.0",
   "description": "React hook for fetch",
   "main": "index.js",

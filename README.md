@@ -15,7 +15,7 @@ yarn add useFetch
 ## Usage
 
 ```js
-import useFetch from 'useFetch';
+import useFetch from '@ergenekonyigit/usefetch';
 
 function MyComponent() {
   let value = useFetch('https://api.github.com/repos/ergenekonyigit/nemene');
