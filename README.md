@@ -9,7 +9,7 @@
 ## Install
 
 ```sh
-yarn add useFetch
+yarn add @ergenekonyigit/usefetch
 ```
 
 ## Usage
